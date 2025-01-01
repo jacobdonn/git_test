@@ -1,1 +1,4 @@
-I am writing this on January 1, 2025.
+added randon stuff
+
+-lorem ipsum
+-foo bar
